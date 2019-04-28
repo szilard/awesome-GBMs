@@ -4,7 +4,7 @@
 A curated list of GBM resources. This document is public domain (all copyright waved hereby). You can submit a pull request if you'd like to contribute.
 
 
-### Algorithm description (original algo)
+## Algorithm description (original algo)
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Gradient_boosting)
 - [Friedman's original paper](https://statweb.stanford.edu/~jhf/ftp/trebst.pdf)
