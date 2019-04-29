@@ -16,7 +16,7 @@ A curated list of GBM resources. This document is public domain (all copyright w
 
 ### xgboost
 
-- [KDD paper by the authors](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
+- [KDD paper by the authors / Tianqi Chen](https://www.kdd.org/kdd2016/papers/files/rfp0697-chenAemb.pdf)
 - [A gentle introduction by machinelearningmastery.com](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
 
@@ -27,35 +27,35 @@ A curated list of GBM resources. This document is public domain (all copyright w
 
 ### lightgbm
 
-- [NIPS paper by the authors](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+- [NIPS paper by the authors / Guolin Ke](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
 
 
 ### catboost
 
-- [NIPS paper by the authors](https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf)
+- [NIPS paper by the authors / Yandex](https://papers.nips.cc/paper/7898-catboost-unbiased-boosting-with-categorical-features.pdf)
 
 
 ### sklearn
 
-- [Talk slides by the authors](https://www.slideshare.net/DataRobot/gradient-boosted-regression-trees-in-scikitlearn)
+- [Talk slides by contributors Peter Prettenhofer and Gilles Louppe](https://www.slideshare.net/DataRobot/gradient-boosted-regression-trees-in-scikitlearn)
 
 
 ### R gbm package
 
-- [Guide by the package author](https://cran.r-project.org/web/packages/gbm/vignettes/gbm.pdf)
+- [Guide by the package author / Greg Ridgeway](https://cran.r-project.org/web/packages/gbm/vignettes/gbm.pdf)
 
 
 ### Spark MLlib
 
-- [Introductory blog post by the authors](https://databricks.com/blog/2015/01/21/random-forests-and-boosting-in-mllib.html)
+- [Introductory blog post by the authors / Databricks](https://databricks.com/blog/2015/01/21/random-forests-and-boosting-in-mllib.html)
 
 
 
 ## GBM performance/scaling
 
-- [Speed benchmark (CPU/GPU) - top libraries](https://github.com/szilard/GBM-perf)
-- [Speed, RAM usage (CPU only) - more libraries](https://github.com/szilard/benchm-ml#boosting-gradient-boosted-treesgradient-boosting-machines)
-- [xgboost+lightgbm benchmarks](https://medium.com/data-design/tagged/benchmark)
+- [Speed benchmark (CPU/GPU) (top libraries) by Szilard Pafka](https://github.com/szilard/GBM-perf)
+- [Speed, RAM usage (CPU only) (more libraries) by Szilard Pafka](https://github.com/szilard/benchm-ml#boosting-gradient-boosted-treesgradient-boosting-machines)
+- [xgboost+lightgbm multithread scaling benchmarks by Damien Soukhavong aka Laurae](https://medium.com/data-design/tagged/benchmark)
 
 
 
