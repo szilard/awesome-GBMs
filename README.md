@@ -70,5 +70,6 @@ A curated list of GBM resources. This document is public domain (all copyright w
 ## Kaggle
 
 
-
+## Research Papers
+- [A collection of research papers on decision trees](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
